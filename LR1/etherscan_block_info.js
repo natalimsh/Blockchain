@@ -121,7 +121,7 @@ async function main() {
         // ПУНКТ 5: Обробка помилок
         console.error("ГЛОБАЛЬНА ПОМИЛКА ВИКОНАННЯ:");
         console.error(`${error.message}`);
-        console.error("Якщо це не працює, можна спробувати Infura або Alchemy");
+        console.error("не раб.");
     }
 }
 
